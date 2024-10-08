@@ -1,4 +1,3 @@
-#pragma once
 #include "Complex.h"
 
     Complex::Complex(double r, double i) : r(r), i(i) {}
